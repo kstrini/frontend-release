@@ -1,0 +1,6 @@
+---
+name: frontend
+
+dependencies: [ruby_2.4.1]
+
+files: [frontend/**/*]
