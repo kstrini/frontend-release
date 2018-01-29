@@ -1,9 +1,12 @@
 bundler-1.15.3.gem:
   size: 336384
+  object_id: bdd12863-1ef4-4cc8-6e04-2038ddf1ea9d
   sha: bd1e1ba80789ea013a11a2909a154dcee118ebbc
 ruby-2.4.1.tar.gz:
   size: 14174752
+  object_id: 5b569c6b-d58e-4120-618f-ecf42289ac19
   sha: 47909a0f77ea900573f027d27746960ad6d07d15
 rubygems-2.6.12.tgz:
   size: 767895
+  object_id: 564c837e-8436-4825-461e-5bed4b741036
   sha: 5ffe5a8c3fdbefdc8b5b6bcc67d059fe9b76b954

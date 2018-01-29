@@ -12,6 +12,7 @@ consumes:
   - name: etcd
     type: etcd_service
 
+
 properties:
   frontend.port:
     description: Port that the frontend app listens on
